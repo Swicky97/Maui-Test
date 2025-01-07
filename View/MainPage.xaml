@@ -3,8 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:model="clr-namespace:Maui_Test_App.Model"
              xmlns:viewmodel="clr-namespace:Maui_Test_App.ViewModel"
+             xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
              x:DataType="viewmodel:MonkeysViewModel"
              Title="{Binding Title}"
+             ios:Page.UseSafeArea="True"
              x:Class="Maui_Test_App.View.MainPage">
 
     <Grid

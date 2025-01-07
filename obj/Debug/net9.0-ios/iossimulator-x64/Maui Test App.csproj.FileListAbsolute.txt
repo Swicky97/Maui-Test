@@ -252,10 +252,6 @@ C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulato
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.inputs
