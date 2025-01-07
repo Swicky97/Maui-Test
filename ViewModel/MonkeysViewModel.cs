@@ -1,5 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 using System.Diagnostics;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Maui_Test_App.Model;
 using Maui_Test_App.Services;
@@ -22,6 +23,9 @@ public partial class MonkeysViewModel : BaseViewModel
         this.connectivity = connectivity;
         this.geolocation = geolocation;
     }
+
+    [ObservableProperty]
+    bool isRefreshing;
 
     [RelayCommand]
     async Task GetClosestMonkey()
@@ -73,7 +77,8 @@ public partial class MonkeysViewModel : BaseViewModel
     [RelayCommand]
     async Task GetMonkeysAsync()
     {
-        if (IsBusy) return;
+        if (IsBusy)
+            return;
 
         try
         {
@@ -101,6 +106,7 @@ public partial class MonkeysViewModel : BaseViewModel
         finally
         {
             IsBusy = false;
+            IsRefreshing = false;
         }
     }
 }
