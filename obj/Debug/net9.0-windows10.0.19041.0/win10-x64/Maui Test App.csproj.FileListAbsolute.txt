@@ -294,6 +294,7 @@ C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.190
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Maui Test App.pdb
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.dll
+C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll

@@ -1,6 +1,7 @@
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Maui Test App.runtimeconfig.json
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Maui Test App.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Maui Test App.pdb
+C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\chase.swick\source\repos\Maui Test App\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll

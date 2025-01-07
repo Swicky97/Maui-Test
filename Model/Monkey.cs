@@ -9,7 +9,7 @@ public class Monkey
     public string Details { get; set; }
     public string Image { get; set; }
     public int Population { get; set; }
-    public double Latitide { get; set; }
+    public double Latitude { get; set; }
     public double Longitude { get; set; }
 }
 
