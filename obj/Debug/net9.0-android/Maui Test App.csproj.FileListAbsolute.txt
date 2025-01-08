@@ -30,6 +30,7 @@ C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\mauifon
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\f\FluentUI.cs
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\r\drawable\nodata.png
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 C:\Users\chase.swick\source\repos\Maui Test App\obj\Debug\net9.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
